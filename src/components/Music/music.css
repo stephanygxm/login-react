@@ -1,0 +1,22 @@
+#titulo {
+  margin-top: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #8b008b;
+}
+
+#texto {
+  margin-top: 20px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#main {
+  text-align: center;
+}
+
+#main img {
+  width: 400px;
+  margin-top: 20px;
+  border-radius: 30px;
+}

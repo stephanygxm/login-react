@@ -1,0 +1,22 @@
+.home {
+  text-align: center;
+}
+
+.link {
+  color: #8b008b;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+h2 {
+  color: #8b008b;
+  margin-top: 80px;
+  font-size: 40px;
+}
+
+.home p {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}

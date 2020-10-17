@@ -1,0 +1,53 @@
+.login {
+  text-align: center;
+  background-color: #8b008b;
+  height: 100vh;
+}
+
+form {
+  border: 1px solid white;
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+  padding-top: 30px;
+}
+
+input {
+  font-size: 15px;
+  padding-top: 5px;
+  padding-left: 5px;
+  border-radius: 4px;
+}
+
+#senha {
+  width: 203px;
+}
+
+button {
+  width: 90px;
+  height: 30px;
+  background-color: #8b008b;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+#error {
+  color: red;
+  font-size: 0.8em;
+  margin-bottom: 25px;
+}

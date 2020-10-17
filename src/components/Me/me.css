@@ -1,0 +1,21 @@
+#eu {
+  border-radius: 50px;
+}
+
+#me {
+  text-align: center;
+}
+
+#sobre {
+  font-size: 18px;
+  width: 800px;
+  text-align: justify;
+  margin: auto;
+  padding-top: 20px;
+}
+
+#me img {
+  width: 320px;
+  margin-top: 20px;
+  border-radius: 30px;
+}
